@@ -1,0 +1,20 @@
+Write a function that checks if a number is even or odd.
+Create a function that calculates the factorial of a number.
+Write a function that reverses a string without using the built-in reverse() method.
+Create a function that counts the number of vowels in a string.
+Write a function that finds the largest number in an array without using Math.max().
+Create a function that converts Celsius to Fahrenheit and vice versa.
+Write a function that checks if a string is a palindrome (reads the same forward and backward).
+Create a function that calculates the sum of all numbers from 1 to n.
+Write a function that finds all prime numbers up to a given number.
+Create a function that checks if a year is a leap year.
+Write a function that capitalizes the first letter of each word in a string.
+Create a closure function that maintains a counter variable.
+Write a function that removes duplicate values from an array.
+Create a function that calculates the Fibonacci sequence up to n numbers.
+Write a function that flattens a nested array without using the flat() method.
+Create a function that converts a number to its Roman numeral representation.
+Write a function that checks if two strings are anagrams of each other.
+Create a function that finds the missing number in a sequence of numbers.
+Write a function that converts a string to camelCase.
+Create a function that implements a simple calculator with basic operations (+, -, *, /).
